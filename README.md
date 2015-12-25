@@ -4,23 +4,6 @@
 
 - [Linux 命令行](http://billie66.github.io/TLCL/)
 
-## Git
-
-- [Pro Git（中文版）](http://git.oschina.net/progit/)
-
-## Http
-
-- [HTTP 下午茶](http://book.haoduoshipin.com/tealeaf-http/#chinese)
-
-## JavaScript
-
-- [JavaScript语言精粹(修订版)](http://www.amazon.cn/dp/B0097CON2S)
-- [JavaScript设计模式](http://product.dangdang.com/20511558.html)
-
-## Chrome Developer Tools
-
-- [Discover DevTools](https://www.codeschool.com/courses/discover-devtools)
-
 ## Database
 
 - [SQL 必知必会](http://www.ituring.com.cn/book/1102)
@@ -53,34 +36,6 @@
 
 - [Maven Getting Started Guide](http://maven.apache.org/guides/getting-started/)
 - [Maven实战](http://www.amazon.cn/dp/B004CLZ7BA)（如果看不懂官方文档，可以看此书）
-
-### Gradle
-
-- [Gradle Documentation](http://www.gradle.org/documentation)
-
-### Spring
-
-- [Spring Framework Reference Documentation](http://docs.spring.io/spring/docs/current/spring-framework-reference/)（优先推荐，官方文档，版本同步更新，可选择不同文档格式阅读）
-- [Spring实战(第3版)](http://www.amazon.cn/dp/B00CY6UD2I)（如果阅读官方文档有困难，可以看此书，只是版本是Spring 3.0）
-
-### Hibernate
-
-- [Hibernate Getting Started Guide](http://docs.jboss.org/hibernate/orm/4.2/quickstart/en-US/html/index.html)
-
-## Ruby
-
-### 入门
-
-- [图灵程序设计丛书:Ruby基础教程(第4版)](http://www.amazon.cn/dp/B00MQPU5BG)
-
-### 提高
-
-- [重构(Ruby版)](http://www.amazon.cn/dp/B003KRPG04)
-- [Ruby元编程](http://www.amazon.cn/dp/B0073APSCK)（需要进一步提高Ruby水平时阅读，且国外已发行该书的最新版本）
-
-### Ruby on Rails
-
-- [Ruby on Rails Tutorial 中文版](http://railstutorial-china.org/read/)
 
 ## 测试驱动开发
 
